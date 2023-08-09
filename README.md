@@ -1,5 +1,15 @@
-# Streamlit_project
-Streamlit is a free and open-source framework to rapidly build and share beautiful machine learning and data science web apps. It is a Python-based library specifically designed for machine learning engineers. Data scientists or machine learning engineers are not web developers and they're not interested in spending weeks learning to use these frameworks to build web apps. Instead, they want a tool that is easier to learn and to use, as long as it can display data and collect needed parameters for modeling. Streamlit allows you to create a stunning-looking application with only a few lines of code.
+# Streamlit_project 
+In this Project is the demonstration of streamlit to build a user friendly application.
+The application should consist of three pages, each serving specific functionalities.
+● The Employee data entry page should allow users to input information such
+as Employee Number (Empno), Employee Name (Ename), Job, and
+Department Number (Deptno).
+● The Department data entry page should enable users to input data for
+departments, including Department Number (Deptno), Department
+Name(dname), and Location(loc).
+● Finally, the third page should visualize the joined employee and department
+data table based on the common 'Deptno' field.
+
 # Install dependencies
 
 `pip install -r requirements.txt`
