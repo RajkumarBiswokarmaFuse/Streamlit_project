@@ -3,12 +3,12 @@ In this Project is the demonstration of streamlit to build a user friendly appli
 The application should consist of three pages, each serving specific functionalities.<br>
 ● The Employee data entry page should allow users to input information such
 as Employee Number (Empno), Employee Name (Ename), Job, and
-Department Number (Deptno).
+Department Number (Deptno).<br>
 ● The Department data entry page should enable users to input data for
 departments, including Department Number (Deptno), Department
-Name(dname), and Location(loc).
+Name(dname), and Location(loc).<br>
 ● Finally, the third page should visualize the joined employee and department
-data table based on the common 'Deptno' field.
+data table based on the common 'Deptno' field.<br>
 
 # Install dependencies
 
