@@ -1,6 +1,5 @@
 """This Project demonstrates a Streamlit Project For Data Entry."""
 
-# Import necessary libraries
 import streamlit as st
 import pandas as pd
 import  sqlite3
@@ -96,7 +95,7 @@ def department_data_entry():
 
 # Page for visualizing joined data
 def visualize_data():
-    """This is a function which display a data from data.db"""
+    """This is a function which display a data from data.dbgit """
     conn = sqlite3.connect('./data/data.db')
     cursor = conn.cursor()
 
