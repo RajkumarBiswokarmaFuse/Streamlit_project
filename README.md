@@ -1,6 +1,6 @@
 # Streamlit_project 
 In this Project is the demonstration of streamlit to build a user friendly application.
-The application should consist of three pages, each serving specific functionalities.
+The application should consist of three pages, each serving specific functionalities.<br>
 ● The Employee data entry page should allow users to input information such
 as Employee Number (Empno), Employee Name (Ename), Job, and
 Department Number (Deptno).
@@ -15,8 +15,7 @@ data table based on the common 'Deptno' field.
 `pip install -r requirements.txt`
 
 # Run following command
-'streamlit run app.py'
-
+`streamlit run app.py`
 
 # Resources
 1. streamlit Tutorials: https://www.datacamp.com/tutorial/streamlit
