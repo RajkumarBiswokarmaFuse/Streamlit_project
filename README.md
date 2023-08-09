@@ -19,7 +19,7 @@ Key Features of Streamlit:
     Machine Learning Integration: You can integrate machine learning models and algorithms directly into your Streamlit apps, allowing users to interact with and test your models.
 
 
-
+# Description of project
 
 In this Project is the demonstration of streamlit to build a user friendly application.
 The application should consist of three pages, each serving specific functionalities.<br>
